@@ -1,0 +1,115 @@
+{
+  "schema_version": "1.0",
+  "collection": "c4931-sparse-kernels",
+  "fixture_type": "synthetic",
+  "shards": [
+    {
+      "path": "data/projections/shard_03_layer01_attn_o_proj.json",
+      "record_id": "shard_03_layer01_attn_o_proj",
+      "sha256": "86a7313ecb9bb50f6fcd27ac2afff806e1abc94bac322691b65756635da0714c",
+      "shape": [
+        8,
+        8
+      ]
+    },
+    {
+      "path": "data/projections/shard_07_layer04_attn_o_proj.json",
+      "record_id": "shard_07_layer04_attn_o_proj",
+      "sha256": "4f4d278c57a343019781eda7b5f14fc535b24f00badcf4841ae25eb3c9bb0530",
+      "shape": [
+        8,
+        8
+      ]
+    },
+    {
+      "path": "data/projections/shard_11_layer08_attn_o_proj.json",
+      "record_id": "shard_11_layer08_attn_o_proj",
+      "sha256": "1cecfbd3279473b7e3fbdfdf282e687b54f1385b89936fbb8649d62cfb75d044",
+      "shape": [
+        8,
+        8
+      ]
+    },
+    {
+      "path": "data/projections/shard_13_layer09_attn_o_proj.json",
+      "record_id": "shard_13_layer09_attn_o_proj",
+      "sha256": "8452f521e53afad05a6dd67b17de06c00c45642383f299322e6906466a684d6d",
+      "shape": [
+        8,
+        8
+      ]
+    },
+    {
+      "path": "data/projections/shard_18_layer11_attn_o_proj.json",
+      "record_id": "shard_18_layer11_attn_o_proj",
+      "sha256": "94534301f4f93718b7916c3c4b7571bc5cd236b8017310304ec5ffee24b8b14d",
+      "shape": [
+        8,
+        8
+      ]
+    },
+    {
+      "path": "data/projections/shard_21_layer12_attn_o_proj.json",
+      "record_id": "shard_21_layer12_attn_o_proj",
+      "sha256": "1c86ec3084bb600524ea6f3d139e68dd68ca3e41a19f41b107500fd4ac0411f0",
+      "shape": [
+        8,
+        8
+      ]
+    },
+    {
+      "path": "data/projections/shard_27_layer13_attn_o_proj.json",
+      "record_id": "shard_27_layer13_attn_o_proj",
+      "sha256": "fa5d69ad920bc9e650462963df143c8a26eab827c9c5a47fc7e48075b689cfe7",
+      "shape": [
+        8,
+        8
+      ]
+    },
+    {
+      "path": "data/projections/shard_33_layer14_attn_o_proj.json",
+      "record_id": "shard_33_layer14_attn_o_proj",
+      "sha256": "b03c5e1d8bde20b16b665e458228362539cfaf663ecb500609611d59754cf6e9",
+      "shape": [
+        8,
+        8
+      ]
+    },
+    {
+      "path": "data/projections/shard_34_layer14_attn_o_proj.json",
+      "record_id": "shard_34_layer14_attn_o_proj",
+      "sha256": "c2fbf6bb08f3e0fa2a06714fae4b820213f048e9df99e77e068e49426c0c5c02",
+      "shape": [
+        8,
+        8
+      ]
+    },
+    {
+      "path": "data/projections/shard_42_layer17_attn_o_proj.json",
+      "record_id": "shard_42_layer17_attn_o_proj",
+      "sha256": "aa4bea82256c5ca59a304479b365c0084c0881511e7c9aa0d580f02393bddc34",
+      "shape": [
+        8,
+        8
+      ]
+    },
+    {
+      "path": "data/projections/shard_49_layer18_attn_o_proj.json",
+      "record_id": "shard_49_layer18_attn_o_proj",
+      "sha256": "0f244bc0cd486f33a30c401797e0a9737bfc31508f0bf74b55b2aa07fc715351",
+      "shape": [
+        8,
+        8
+      ]
+    },
+    {
+      "path": "data/projections/shard_57_layer20_attn_o_proj.json",
+      "record_id": "shard_57_layer20_attn_o_proj",
+      "sha256": "d2d31de8aa533cb2214158ea7d904bb582137e896c2c1396c434b28d4fdfbebb",
+      "shape": [
+        8,
+        8
+      ]
+    }
+  ]
+}

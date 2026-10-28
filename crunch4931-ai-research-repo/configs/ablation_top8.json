@@ -1,0 +1,10 @@
+{
+  "run_id": "C4931/E-009/k8",
+  "seed": 4931,
+  "embedding_dim": 8,
+  "max_tokens": 40,
+  "top_k": 8,
+  "sample_file": "data/samples/notes.jsonl",
+  "projection_file": "data/projections/shard_27_layer13_attn_o_proj.json",
+  "normalization": "causal-topk-softmax"
+}

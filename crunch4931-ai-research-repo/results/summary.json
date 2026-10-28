@@ -1,0 +1,393 @@
+{
+  "schema_version": "1.0",
+  "run_id": "C4931/E-008/baseline",
+  "projection_file": "data/projections/shard_27_layer13_attn_o_proj.json",
+  "top_k": 3,
+  "sample_count": 48,
+  "samples": [
+    {
+      "sample_id": "sample-0001",
+      "token_count": 17,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.533436,
+      "mean_peak_mass": 0.405773,
+      "output_rms": 0.313213
+    },
+    {
+      "sample_id": "sample-0002",
+      "token_count": 18,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.524636,
+      "mean_peak_mass": 0.404782,
+      "output_rms": 0.319983
+    },
+    {
+      "sample_id": "sample-0003",
+      "token_count": 18,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.523284,
+      "mean_peak_mass": 0.420689,
+      "output_rms": 0.312168
+    },
+    {
+      "sample_id": "sample-0004",
+      "token_count": 17,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.5306,
+      "mean_peak_mass": 0.413739,
+      "output_rms": 0.311527
+    },
+    {
+      "sample_id": "sample-0005",
+      "token_count": 18,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.524084,
+      "mean_peak_mass": 0.408922,
+      "output_rms": 0.35316
+    },
+    {
+      "sample_id": "sample-0006",
+      "token_count": 19,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.508738,
+      "mean_peak_mass": 0.414862,
+      "output_rms": 0.281279
+    },
+    {
+      "sample_id": "sample-0007",
+      "token_count": 18,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.522764,
+      "mean_peak_mass": 0.411665,
+      "output_rms": 0.295876
+    },
+    {
+      "sample_id": "sample-0008",
+      "token_count": 20,
+      "source_tag": "C4931/attention-lab",
+      "mean_normalized_entropy": 0.508263,
+      "mean_peak_mass": 0.406943,
+      "output_rms": 0.31903
+    },
+    {
+      "sample_id": "sample-0009",
+      "token_count": 17,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.532042,
+      "mean_peak_mass": 0.404808,
+      "output_rms": 0.336815
+    },
+    {
+      "sample_id": "sample-0010",
+      "token_count": 17,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.525017,
+      "mean_peak_mass": 0.425751,
+      "output_rms": 0.297747
+    },
+    {
+      "sample_id": "sample-0011",
+      "token_count": 17,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.531248,
+      "mean_peak_mass": 0.40912,
+      "output_rms": 0.327045
+    },
+    {
+      "sample_id": "sample-0012",
+      "token_count": 18,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.524734,
+      "mean_peak_mass": 0.403671,
+      "output_rms": 0.291524
+    },
+    {
+      "sample_id": "sample-0013",
+      "token_count": 28,
+      "source_tag": "cyber&net/compat/trace",
+      "mean_normalized_entropy": 0.460474,
+      "mean_peak_mass": 0.395798,
+      "output_rms": 0.282721
+    },
+    {
+      "sample_id": "sample-0014",
+      "token_count": 17,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.529902,
+      "mean_peak_mass": 0.425279,
+      "output_rms": 0.323642
+    },
+    {
+      "sample_id": "sample-0015",
+      "token_count": 18,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.524062,
+      "mean_peak_mass": 0.405673,
+      "output_rms": 0.29086
+    },
+    {
+      "sample_id": "sample-0016",
+      "token_count": 16,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.541493,
+      "mean_peak_mass": 0.417567,
+      "output_rms": 0.24885
+    },
+    {
+      "sample_id": "sample-0017",
+      "token_count": 19,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.51419,
+      "mean_peak_mass": 0.414758,
+      "output_rms": 0.303449
+    },
+    {
+      "sample_id": "sample-0018",
+      "token_count": 17,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.531844,
+      "mean_peak_mass": 0.41636,
+      "output_rms": 0.279312
+    },
+    {
+      "sample_id": "sample-0019",
+      "token_count": 14,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.560152,
+      "mean_peak_mass": 0.429397,
+      "output_rms": 0.354048
+    },
+    {
+      "sample_id": "sample-0020",
+      "token_count": 16,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.537053,
+      "mean_peak_mass": 0.427788,
+      "output_rms": 0.275089
+    },
+    {
+      "sample_id": "sample-0021",
+      "token_count": 17,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.533436,
+      "mean_peak_mass": 0.405773,
+      "output_rms": 0.313213
+    },
+    {
+      "sample_id": "sample-0022",
+      "token_count": 18,
+      "source_tag": "C4931/attention-lab",
+      "mean_normalized_entropy": 0.524636,
+      "mean_peak_mass": 0.404782,
+      "output_rms": 0.319983
+    },
+    {
+      "sample_id": "sample-0023",
+      "token_count": 18,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.523284,
+      "mean_peak_mass": 0.420689,
+      "output_rms": 0.312168
+    },
+    {
+      "sample_id": "sample-0024",
+      "token_count": 17,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.5306,
+      "mean_peak_mass": 0.413739,
+      "output_rms": 0.311527
+    },
+    {
+      "sample_id": "sample-0025",
+      "token_count": 18,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.524084,
+      "mean_peak_mass": 0.408922,
+      "output_rms": 0.35316
+    },
+    {
+      "sample_id": "sample-0026",
+      "token_count": 19,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.508738,
+      "mean_peak_mass": 0.414862,
+      "output_rms": 0.281279
+    },
+    {
+      "sample_id": "sample-0027",
+      "token_count": 27,
+      "source_tag": "cyber&net/compat/trace",
+      "mean_normalized_entropy": 0.465432,
+      "mean_peak_mass": 0.395099,
+      "output_rms": 0.322948
+    },
+    {
+      "sample_id": "sample-0028",
+      "token_count": 20,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.508263,
+      "mean_peak_mass": 0.406943,
+      "output_rms": 0.31903
+    },
+    {
+      "sample_id": "sample-0029",
+      "token_count": 17,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.532042,
+      "mean_peak_mass": 0.404808,
+      "output_rms": 0.336815
+    },
+    {
+      "sample_id": "sample-0030",
+      "token_count": 17,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.525017,
+      "mean_peak_mass": 0.425751,
+      "output_rms": 0.297747
+    },
+    {
+      "sample_id": "sample-0031",
+      "token_count": 17,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.531248,
+      "mean_peak_mass": 0.40912,
+      "output_rms": 0.327045
+    },
+    {
+      "sample_id": "sample-0032",
+      "token_count": 18,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.524734,
+      "mean_peak_mass": 0.403671,
+      "output_rms": 0.291524
+    },
+    {
+      "sample_id": "sample-0033",
+      "token_count": 19,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.514927,
+      "mean_peak_mass": 0.409291,
+      "output_rms": 0.264252
+    },
+    {
+      "sample_id": "sample-0034",
+      "token_count": 17,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.529902,
+      "mean_peak_mass": 0.425279,
+      "output_rms": 0.323642
+    },
+    {
+      "sample_id": "sample-0035",
+      "token_count": 18,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.524062,
+      "mean_peak_mass": 0.405673,
+      "output_rms": 0.29086
+    },
+    {
+      "sample_id": "sample-0036",
+      "token_count": 16,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.541493,
+      "mean_peak_mass": 0.417567,
+      "output_rms": 0.24885
+    },
+    {
+      "sample_id": "sample-0037",
+      "token_count": 19,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.51419,
+      "mean_peak_mass": 0.414758,
+      "output_rms": 0.303449
+    },
+    {
+      "sample_id": "sample-0038",
+      "token_count": 17,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.531844,
+      "mean_peak_mass": 0.41636,
+      "output_rms": 0.279312
+    },
+    {
+      "sample_id": "sample-0039",
+      "token_count": 23,
+      "source_tag": "cyber&net/compat/trace",
+      "mean_normalized_entropy": 0.487542,
+      "mean_peak_mass": 0.400074,
+      "output_rms": 0.347767
+    },
+    {
+      "sample_id": "sample-0040",
+      "token_count": 16,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.537053,
+      "mean_peak_mass": 0.427788,
+      "output_rms": 0.275089
+    },
+    {
+      "sample_id": "sample-0041",
+      "token_count": 17,
+      "source_tag": "C4931/attention-lab",
+      "mean_normalized_entropy": 0.533436,
+      "mean_peak_mass": 0.405773,
+      "output_rms": 0.313213
+    },
+    {
+      "sample_id": "sample-0042",
+      "token_count": 18,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.524636,
+      "mean_peak_mass": 0.404782,
+      "output_rms": 0.319983
+    },
+    {
+      "sample_id": "sample-0043",
+      "token_count": 18,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.523284,
+      "mean_peak_mass": 0.420689,
+      "output_rms": 0.312168
+    },
+    {
+      "sample_id": "sample-0044",
+      "token_count": 17,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.5306,
+      "mean_peak_mass": 0.413739,
+      "output_rms": 0.311527
+    },
+    {
+      "sample_id": "sample-0045",
+      "token_count": 18,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.524084,
+      "mean_peak_mass": 0.408922,
+      "output_rms": 0.35316
+    },
+    {
+      "sample_id": "sample-0046",
+      "token_count": 19,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.508738,
+      "mean_peak_mass": 0.414862,
+      "output_rms": 0.281279
+    },
+    {
+      "sample_id": "sample-0047",
+      "token_count": 18,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.522764,
+      "mean_peak_mass": 0.411665,
+      "output_rms": 0.295876
+    },
+    {
+      "sample_id": "sample-0048",
+      "token_count": 20,
+      "source_tag": "baseline/kernel",
+      "mean_normalized_entropy": 0.508263,
+      "mean_peak_mass": 0.406943,
+      "output_rms": 0.31903
+    }
+  ]
+}
