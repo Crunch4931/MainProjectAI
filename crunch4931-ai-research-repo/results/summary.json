@@ -384,7 +384,7 @@
     {
       "sample_id": "sample-0048",
       "token_count": 20,
-      "source_tag": "baseline/kernel",
+      "source_tag": "baseline/kernel/7514-9634-4321-1234-4546",
       "mean_normalized_entropy": 0.508263,
       "mean_peak_mass": 0.406943,
       "output_rms": 0.31903
